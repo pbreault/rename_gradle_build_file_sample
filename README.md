@@ -1,3 +1,3 @@
-# Nested Modules in Gradle
+Sample code to show how to rename gradle build files
 
-This is the sample code for the 
+The original post is available on http://www.developerphil.com/renaming-your-gradle-build-files/
